@@ -11,6 +11,7 @@
   <description>Sample Maven project</description>
   <url>http://www.formation.com</url>
 
+<!--comment -->
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
