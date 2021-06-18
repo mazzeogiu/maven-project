@@ -3,7 +3,8 @@ package com.example;
 
 /**
 * Class main 
-*
+* <p>
+* This method always returns a welcome message
 * @param  someone  name of user
 * @return      welcome message
 */
