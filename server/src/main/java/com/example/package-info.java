@@ -1,4 +1,4 @@
 /**
 * package principal du projet
 */
-package-info
+package com.example;
