@@ -8,7 +8,6 @@ package com.example;
 * @author Captain America
 * </p>
 * This method always returns a welcome message
-* @param  someone  name of user
 * @return      welcome message
 */
 public class Greeter {
